@@ -67,6 +67,12 @@ Após o processamento dos documentos oficiais anexados pelas fontes, o **Segundo
 *   **Banrisul (BRSR6 - Preferenciais B):** Média anual calculada de **R$ 0,92** por ação.
     *   **Preço Teto Calculado pela IA:** `R$ 0,92 / 0,06` = **R$ 15,33**
 
+     ![Interface do NotebookLM Parte 1](print1.png)
+     ![Interface do NotebookLM Parte 2](print2.png)
+    ![Interface do NotebookLM Parte 3](print3.png)
+    ![Interface do NotebookLM Parte 4](resultados.png)
+   
+
 ### 🧠 O Veredito Cognitivo da IA:
 > *"Meu neto, escute bem: no mercado, o preço é o que você paga, mas o valor é o que você leva em proventos. O investidor inteligente é aquele que fica como o jacaré de boca aberta esperando o preço cair para abocanhar mais ações, e não o que sai correndo atrás de preço que sobe. Se essas ações estiverem abaixo do teto que calculamos, pode colocar o seu dinheiro."*
 
