@@ -30,9 +30,9 @@ O mercado valoriza o raciocínio por trás dos resultados. Abaixo estão documen
 
 ### 🩹 Cicatrizes e Dificuldades Encontradas (Troubleshooting):
 * **O Problema da Alucinação de Termos:** O modelo tendia a misturar a teoria clássica de finanças americanas com o método Barsi. 
-* **A Solução:** Adicionei restrições herméticas nas instruções (`"Abomine jargões modernos em inglês..."`) e criamos uma persona relacional interna (`"A pessoa interagindo com você é seu NETO"`). Isso forçou a IA a adotar um tom acolhedor, simples e focado no "chão de fábrica".
+* **A Solução:** Adicionei restrições herméticas nas instruções (`"Abomine jargões modernos em inglês..."`) e criei uma persona relacional interna (`"A pessoa interagindo com você é seu NETO"`). Isso forçou a IA a adotar um tom acolhedor, simples e focado no "chão de fábrica".
 
-### 🏆 Prompt V2 (Versão Final Otimizada e Robusta)
+### 🏆 Prompt V2 (Versão Final Robusta)
 Este é o prompt final inserido nas diretrizes do NotebookLM para consolidar o **Segundo Cérebro**:
 
 ```text
